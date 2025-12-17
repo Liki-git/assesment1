@@ -11,6 +11,6 @@ elif marks >= 80:
 elif marks >= 70:
    # print("Grade: C")
 #elif marks >= 60:
-    print("Grade: D")
+    print("Grade: D (Test)")
 else:
     print("Grade: F")
